@@ -7,12 +7,6 @@
   </a> 
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter?logo=twitter&style=for-the-badge" alt="your_twitter" />
-  </a>
-</p>
-
 - 🔭 I’m currently working at Mercedes-Benz R&D India as a Backend & DevOps Engineer, contributing to scalable cloud-native microservices and infrastructure modernization.
 
 - ⚙️ Expertise in designing scalable **Spring Boot microservices**, integrating **React UIs**, and deploying via **Kubernetes (EKS)**.
